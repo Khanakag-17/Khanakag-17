@@ -111,7 +111,6 @@ Currently building a strong foundation in AI/ML, backend systems, and real-time 
 </div>
 
 ---
----
 
 <h3 align="center">🚀 Thanks for stopping by! Let's connect, collaborate, and create something impactful together. 🤝</h3>
 
