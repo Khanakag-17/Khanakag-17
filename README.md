@@ -100,7 +100,10 @@ Currently building a strong foundation in AI/ML, backend systems, and real-time 
 
 ### 🔁 Contribution Heatmap
 
-![snake gif](https://raw.githubusercontent.com/Khanakag-17/Khanakag-17/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Khanakag-17/Khanakag-17/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</div>
 
 
 ---
