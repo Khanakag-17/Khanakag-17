@@ -102,7 +102,7 @@ Currently building a strong foundation in AI/ML, backend systems, and real-time 
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Khanakag-17/Khanakag-17/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Khanakag-17/Khanakag-17/output/github-contribution-grid-snake-dark.svg" alt="snake gif" /><br />
 </div>
 
 
@@ -110,9 +110,26 @@ Currently building a strong foundation in AI/ML, backend systems, and real-time 
 
 ### 🏅 Developer Milestones
 
+**GitHub Achievements** 
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Khanakag-17&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
+**Kaggle Badges**
+
+<div align="center">
+  <img src="assets/Kaggle Badges.png" width = "900"/>
+</div>
+
+**Cisco Badges**
+
+<div align="center">
+  <img src="assets/CCNA.png" width = "100" height = "100"/>
+  <img src="assets/CS.png" width = "100" height = "100"/>
+  <img src="assets/DA.png" width = "100" height = "100"/>
+</div>
+
 
 ---
 
